@@ -11,4 +11,3 @@ public class ProducerApplication {
 	}
 
 }
-//learnt basics and redis and stuff
